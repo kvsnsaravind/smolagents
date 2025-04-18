@@ -5,9 +5,9 @@ Nice! Since you’ve already got the code for your agent using **Hugging Face + 
 
 ---
 
-## 🧠 agentAL – A Lightweight AI Agent Powered by Hugging Face & SmolAgent
+## 🧠 agentAI – A Lightweight AI Agent Powered by Hugging Face & SmolAgent
 
-**agentAL** is a minimal and efficient AI agent built using the [smolagent](https://github.com/smol-ai/smol-agent) framework. It leverages Hugging Face models to perform intelligent tasks such as summarization, question answering, or document understanding — all within a compact, single-file design philosophy.
+**agentAI** is a minimal and efficient AI agent built using the [smolagent](https://github.com/smol-ai/smol-agent) framework. It leverages Hugging Face models to perform intelligent tasks such as summarization, question answering, or document understanding — all within a compact, single-file design philosophy.
 
 ### ✨ Features
 - ✅ Powered by Hugging Face Transformers for natural language intelligence  
