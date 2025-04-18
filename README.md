@@ -1,5 +1,5 @@
 # smolagents
-Create the own agentAL with help of smolagents
+Create the own agentAI with help of smolagents
 
 Nice! Since you’ve already got the code for your agent using **Hugging Face + smolagent**, here’s a clean, professional **description** you can use in a README, presentation, or job application:
 
